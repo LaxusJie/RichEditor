@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import com.apkfuns.logutils.LogUtils;
 import com.app.base.FrameBaseActivity;
-import com.app.base.network.entity.EditorDataEntity;
+import com.app.base.utils.EditorDataEntity;
 import com.app.base.utils.ToastUtil;
 import com.app.functionbar.R;
 import com.app.functionbar.R2;

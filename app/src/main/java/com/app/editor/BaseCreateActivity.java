@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 
-import com.app.base.network.entity.EditorDataEntity;
+import com.app.base.utils.EditorDataEntity;
 import com.app.editor.base.BaseActivity;
 import com.app.functionbar.inputview.AudioFunc;
 import com.app.functionbar.inputview.BaseInputBar;

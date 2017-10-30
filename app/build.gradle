@@ -29,8 +29,8 @@ android {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile project(':functionbar')
+    compile project(path: ':richeditor')
     compile project(':base')
     //小刀注解插件
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
-    compile project(path: ':richeditor')
 }

@@ -32,7 +32,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.app.base.network.entity.EditorDataEntity;
+import com.app.base.utils.EditorDataEntity;
 import com.app.richeditor.R;
 import com.app.richeditor.utils.ImageUtil;
 import com.tb.emoji.Emoji;

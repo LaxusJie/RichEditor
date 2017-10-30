@@ -1,4 +1,4 @@
-package com.app.base.network.entity;
+package com.app.base.utils;
 
 import android.graphics.Bitmap;
 import android.os.Parcel;

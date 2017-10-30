@@ -5,7 +5,7 @@ import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Looper;
 
-import com.app.base.network.entity.EditorDataEntity;
+import com.app.base.utils.EditorDataEntity;
 import com.app.richeditor.R;
 import com.app.richeditor.utils.RegexUtils;
 import com.bumptech.glide.Glide;
