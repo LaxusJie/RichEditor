@@ -1,0 +1,55 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.1"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    //上层网络框架
+    compile 'com.squareup.retrofit2:retrofit:2.2.0'
+    compile 'com.trello:rxlifecycle:1.0'
+    compile 'com.trello:rxlifecycle-components:1.0'
+    //网络框架兼容适配器和gson方案
+    compile 'com.squareup.retrofit2:converter-gson:2.2.0'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.2.0'
+    //底层网络框架
+    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    //rxjava
+    compile 'io.reactivex:rxandroid:1.0.1'
+    //注解框架
+    compile 'com.jakewharton:butterknife:8.4.0'
+    //gson
+    compile 'com.google.code.gson:gson:2.2.4'
+    //图片框架
+    compile 'com.github.bumptech.glide:glide:3.4.+'
+    //下拉列表框架
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    //android基础库
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:support-v4:25.3.1'
+    //autolayout
+    compile 'com.zhy:autolayout:1.4.3'
+    //Log框架
+    compile 'com.apkfuns.logutils:library:1.5.1.1'
+    //图片压缩库
+    compile 'id.zelory:compressor:1.0.4'
+    //下拉刷新
+    compile 'com.baoyz.pullrefreshlayout:library:1.2.0'
+}

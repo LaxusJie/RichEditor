@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_audio_shape">
+
+        <LinearLayout
+            android:id="@+id/ll_audio_icon"
+            android:layout_width="128px"
+            android:layout_height="110px"
+            android:background="#50c7fd"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/image_audio"
+                android:layout_width="44px"
+                android:layout_height="69px"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:src="@mipmap/record_icon" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_audio_info"
+            android:layout_width="wrap_content"
+            android:layout_height="110px"
+            android:layout_toRightOf="@+id/ll_audio_icon"
+            android:gravity="left|center_vertical"
+            android:orientation="horizontal"
+            android:visibility="visible"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30px"
+                android:gravity="center_vertical"
+                android:text="音频"
+                android:textSize="30px"
+                android:textColor="@color/colorBlack1"/>
+
+            <TextView
+                android:id="@+id/tv_audio_duration"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15px"
+                android:gravity="center_vertical"
+                android:visibility="invisible"
+                android:textSize="28px"
+                android:textColor="@color/colorGray3"
+                />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/image_close"
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/drawable_veto_option_delete_selector" />
+    </RelativeLayout>
+</FrameLayout>

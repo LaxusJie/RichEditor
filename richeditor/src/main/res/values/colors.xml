@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009fe8</color>
+    <color name="colorPrimaryDark">#009fe8</color>
+    <color name="colorAccent">#009fe8</color>
+
+    <!--透明-->
+    <color name="transparent">#00000000</color>
+
+    <!--白色-->
+    <color name="colorWhite1">#FFFFFF</color>
+    <color name="colorWhite2">#f6f6f7</color>
+    <color name="colorWhite3">#f9f9f9</color>
+    <color name="colorWhite4">#f2f2f2</color>
+
+    <!--黑色-->
+    <color name="colorBlack1">#000000</color>
+    <color name="colorBlack2">#e1e2e3</color>
+    <color name="colorBlack3">#333333</color>
+    <color name="colorBlack4">#2e3a3f</color>
+
+    <!--红色-->
+    <color name="colorRed1">#E14224</color>
+    <color name="colorRed2">#FC6703</color>
+    <color name="colorRed3">#fff4e9</color>
+    <color name="colorRed4">#f8ebe6</color>
+    <color name="colorRed5">#f97f71</color>
+    <color name="colorRed6">#f73f21</color>
+
+    <!--橙色-->
+    <color name="colorOrange1">#fbeee5</color>
+    <color name="colorOrange2">#f5a623</color>
+    <color name="colorOrange3">#fef4eb</color>
+
+    <!--灰色-->
+    <color name="colorGray1">#525252</color>
+    <color name="colorGray2">#b1b1b1</color>
+    <color name="colorGray3">#939393</color>
+    <color name="colorGray4">#666666</color>
+    <color name="colorGray5">#efefef</color>
+    <color name="colorGray6">#e6e6e6</color>
+    <color name="colorGray7">#abb3bd</color>
+    <color name="colorGray8">#d0d1d3</color>
+    <color name="colorGray9">#8f8f8f</color>
+
+    <!-- 蓝色 -->
+    <color name="colorBlue1">#009fe8</color>
+    <color name="colorBlue2">#5480b0</color>
+    <color name="colorBlue3">#60a1f9</color>
+    <color name="colorBlue4">#e5f6ff</color>
+    <color name="colorBlue5">#def3fd</color>
+    <color name="colorBlue6">#55b5ee</color>
+    <color name="colorBlue7">#00aeff</color>
+    <color name="colorBlue8">#1488c1</color>
+    <color name="colorBlue9">#5f7fab</color>
+    <color name="colorBlue10">#019fe8</color>
+
+    <!--绿色-->
+    <color name="colorGreen1">#01cd98</color>
+    <color name="colorGreen2">#04c23a</color>
+    <color name="colorGreen3">#59B29C</color>
+</resources>

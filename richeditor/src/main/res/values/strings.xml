@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">richeditor</string>
+    <string name="two_text">%1$s%2$s</string>
+</resources>

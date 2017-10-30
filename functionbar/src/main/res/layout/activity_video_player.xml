@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack1">
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="49dip"
+        android:alpha="0.85"
+        android:background="@color/transparent2"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_video_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffff"
+            android:text="00S"
+            android:textSize="38px"
+            android:visibility="gone"/>
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_layout">
+
+        <mabeijianxi.camera.views.SurfaceVideoView
+            android:id="@+id/videoview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:fitsSystemWindows="true"
+            android:saveEnabled="true" />
+
+        <ImageView
+            android:id="@+id/iv_play"
+            android:layout_width="200px"
+            android:layout_height="200px"
+            android:layout_gravity="center"
+            android:contentDescription="@string/imageview_content_description"
+            android:src="@mipmap/video_play" />
+
+        <RelativeLayout
+            android:id="@+id/bottom_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/record_progress"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="26px"
+            android:background="#00000000">
+
+            <Button
+                android:id="@+id/btn_pause"
+                android:layout_width="200px"
+                android:layout_height="200px"
+                android:layout_centerHorizontal="true"
+                android:background="@mipmap/video_pause"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btn_again"
+                android:layout_width="133px"
+                android:layout_height="133px"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="26px"
+                android:background="@mipmap/video_again" />
+
+            <Button
+                android:id="@+id/btn_ok"
+                android:layout_width="133px"
+                android:layout_height="133px"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="26px"
+                android:background="@mipmap/video_ok" />
+
+        </RelativeLayout>
+
+        <ProgressBar
+            android:id="@+id/loading"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="gone" />
+
+    </FrameLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_381902">
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="49dip"
+        android:alpha="0.85"
+        android:background="@color/transparent2"
+        android:gravity="center_vertical">
+
+            <CheckBox
+                android:id="@+id/record_camera_led"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/record_camera_flash_led_selector"
+                android:button="@null"
+                android:layout_marginLeft="10px"
+                android:textColor="@android:color/white" />
+
+            <CheckBox
+                android:id="@+id/record_camera_switcher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/record_camera_switch_selector"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10px"
+                android:button="@null" />
+
+        <TextView
+            android:id="@+id/tv_video_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="60S"
+            android:textColor="#ffffff"
+            android:textSize="38px" />
+
+
+
+            <ImageView
+                android:id="@+id/title_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:contentDescription="@string/imageview_content_description"
+                android:padding="10dip"
+                android:src="@drawable/record_next_seletor"
+                android:visibility="gone" />
+    </RelativeLayout>
+
+    <mabeijianxi.camera.views.ProgressView
+        android:id="@+id/record_progress"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_below="@+id/title_layout" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/record_progress">
+
+        <SurfaceView
+            android:id="@+id/record_preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/record_progress"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="800px"
+        android:background="#000000">
+
+        <CheckedTextView
+            android:id="@+id/record_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="18dip"
+            android:background="@drawable/record_delete_selector"
+            android:button="@null"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/record_controller"
+            android:layout_width="108dp"
+            android:layout_height="108dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/small_video_shoot"
+            android:gravity="center"
+            android:text="按住拍"
+            android:textColor="@color/camera_progress_three"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_video_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="200px"
+            android:src="@drawable/video_back" />
+
+        <!--开始按钮-->
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="133px"
+            android:layout_height="133px"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="20px"
+            android:background="@drawable/video_start" />
+
+        <Button
+            android:id="@+id/btn_stop"
+            android:layout_width="133px"
+            android:layout_height="133px"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="20px"
+            android:background="@drawable/video_stop"
+            android:visibility="gone"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

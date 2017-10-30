@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="88px"
+    android:background="@drawable/bg_audio_shape">
+    <!--播放暂停按钮-->
+    <Button
+        android:id="@+id/btn_record_over_pause"
+        android:layout_width="70px"
+        android:layout_height="70px"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="35px"
+        android:background="@drawable/drawable_audio_play_selector" />
+    <!--播放进度可以播放时间-->
+    <RelativeLayout
+        android:id="@+id/rl_middle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20px"
+        android:layout_marginRight="20px"
+        android:layout_marginTop="45px"
+        android:layout_toLeftOf="@+id/tv_complete"
+        android:layout_toRightOf="@+id/btn_record_over_pause"
+        android:layout_centerVertical="true"
+        >
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="8px"
+            android:layout_alignParentTop="true"
+            android:background="@color/colorBlue1"
+            />
+
+        <TextView
+            android:id="@+id/tv_begin_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/progressBar"
+            android:layout_marginTop="8px"
+            android:text="00:00"
+            android:textSize="22px"
+            android:textColor="@color/colorGray3"/>
+
+        <TextView
+            android:id="@+id/tv_end_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/progressBar"
+            android:layout_marginTop="8px"
+            android:text="00:00"
+            android:textSize="22px"
+            android:textColor="@color/colorGray3"/>
+    </RelativeLayout>
+    <!--右侧完成按钮-->
+    <TextView
+        android:id="@+id/tv_complete"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20px"
+        android:gravity="center"
+        android:text="@string/complete"
+        android:textSize="28px"
+        android:textColor="@color/colorBlue1"/>
+
+
+</RelativeLayout>

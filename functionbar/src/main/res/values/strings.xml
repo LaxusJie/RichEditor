@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">functionbar</string>
+    <string name="shoot_video">拍摄视频</string>
+    <string name="select_video">选择本地视频</string>
+    <string name="complete">完成</string>
+</resources>

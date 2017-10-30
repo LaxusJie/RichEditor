@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--多媒体Tag的key-->
+    <item type="id" name="richeditor_audio"/>
+    <item type="id" name="richeditor_video"/>
+</resources>

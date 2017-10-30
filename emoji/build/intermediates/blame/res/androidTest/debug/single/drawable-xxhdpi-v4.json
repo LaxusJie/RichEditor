@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji19.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji19.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji83.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji83.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji52.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji52.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji97.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji97.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji36.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji36.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji49.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji49.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji5.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji5.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji35.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji35.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji82.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji82.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji96.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji96.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji66.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji66.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji51.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji51.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji21.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji21.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji6.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji6.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji3.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji3.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji70.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji70.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji79.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji79.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji54.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji54.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji84.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji84.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji68.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji68.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji65.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji65.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji81.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji81.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji17.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji17.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji22.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji22.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji95.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji95.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji98.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji98.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji41.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji41.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji47.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji47.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji63.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji63.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji78.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji78.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji94.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji94.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji2.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji2.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji46.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji46.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji24.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji24.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji69.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji69.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji85.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji85.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji40.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji40.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji37.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji37.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji34.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji34.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji15.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji15.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji12.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji12.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji31.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji31.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji50.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji50.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji53.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji53.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji59.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji59.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji18.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji18.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji75.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji75.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji72.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji72.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\face_delete.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\face_delete.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji56.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji56.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji58.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji58.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji13.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji13.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji30.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji30.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji91.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji91.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji89.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji89.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji60.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji60.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji44.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji44.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji28.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji28.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji74.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji74.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji88.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji88.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji43.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji43.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji9.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji90.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji90.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji27.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji27.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji62.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji62.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji76.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji76.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji87.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji87.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji57.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji57.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji73.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji73.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji8.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji8.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji11.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji11.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji25.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji25.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji92.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji92.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji14.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji14.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji80.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji80.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji86.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji86.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji7.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji7.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji55.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji55.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji10.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji10.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji39.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji39.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji33.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji33.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji71.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji71.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji38.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji38.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji99.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji99.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji77.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji77.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji16.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji16.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji93.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji93.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji32.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji32.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji20.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji20.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji23.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji23.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji26.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji26.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji67.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji67.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji42.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji42.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji1.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji1.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji45.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji45.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji4.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji4.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji29.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji29.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji61.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji61.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji64.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji64.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bdb42a284e52e75c52f6799b376a69ca7e00be82\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\emoji48.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\emoji48.png"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.app.richeditor.editor.DeletableEditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edit_text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:cursorVisible="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:lineSpacingExtra="10dp"
+    android:inputType="textMultiLine"
+    android:imeOptions="actionNone"
+    android:scrollHorizontally="false"
+    android:singleLine="false"
+    android:textSize="34px"
+    android:textColor="@color/colorGray4"
+    android:textCursorDrawable="@drawable/cursor_shape">
+
+</com.app.richeditor.editor.DeletableEditText>

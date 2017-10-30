@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><!--输入区域-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_easybar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorWhite3"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/btn_easybar_open"
+        android:layout_width="60px"
+        android:layout_height="60px"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="26px"
+        android:background="@drawable/background_selector_function" />
+
+    <Button
+        android:id="@+id/btn_easybar_emoji"
+        android:layout_width="60px"
+        android:layout_height="60px"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="26px"
+        android:background="@drawable/background_selector_face" />
+
+    <LinearLayout
+        android:id="@+id/ll_easybar_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+        <EditText
+            android:id="@+id/et_easybar_input"
+            android:layout_width="400px"
+            android:layout_height="wrap_content"
+            android:layout_margin="20px"
+            android:background="@drawable/background_edittext_chat"
+            android:maxLines="5"
+            android:scrollbars="vertical"
+            android:singleLine="false" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_easybar_send"
+        android:layout_width="100px"
+        android:layout_height="60px"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="23px"
+        android:background="@drawable/background_button_send"
+        android:text="发送"
+        android:textColor="@drawable/send_text_color"
+        android:textSize="28px" />
+
+</LinearLayout>

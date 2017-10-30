@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 圆形图标控件 -->
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+
+    <!--下拉控件属性-->
+    <declare-styleable name="DropDownMenu">
+
+        <attr name="ddunderlineColor" format="color"/>
+        <attr name="dddividerColor" format="color"/>
+        <attr name="ddtextSelectedColor" format="color"/>
+        <attr name="ddtextUnselectedColor" format="color"/>
+        <attr name="ddmenuBackgroundColor" format="color"/>
+        <attr name="ddmaskColor" format="color"/>
+        <attr name="ddmenuTextSize" format="dimension"/>
+        <attr name="ddmenuSelectedIcon" format="reference"/>
+        <attr name="ddmenuUnselectedIcon" format="reference"/>
+        <attr name="ddmenuMatchBoolean" format="boolean"/>
+    </declare-styleable>
+
+    <!-- 录音控件属性-->
+    <declare-styleable name="voiceView">
+        <!--中间线的颜色，就是波形的时候，大家可以看到，中间有一条直线，就是那个-->
+        <attr name="middleLine" format="color" />
+        <!--中间线的高度，因为宽度是充满的-->
+        <attr name="middleLineHeight" format="dimension" />
+        <!--波动的线的颜色，如果是距形样式的话，刚是距形的颜色-->
+        <attr name="voiceLine" format="color" />
+        <!--波动线的横向移动速度，线的速度的反比，即这个值越小，线横向移动越快，越大线移动越慢，默认90-->
+        <attr name="lineSpeed" format="integer" />
+        <!--矩形的宽度-->
+        <attr name="rectWidth" format="dimension" />
+        <!--矩形之间的间隔-->
+        <attr name="rectSpace" format="dimension" />
+        <!--矩形的初始高度，就是没有声音的时候，矩形的高度-->
+        <attr name="rectInitHeight" format="dimension" />
+        <!--所输入音量的最大值-->
+        <attr name="maxVolume" format="float" />
+        <!--控件的样式，一共有两种，波形或者矩形-->
+        <attr name="viewMode">
+            <enum name="line" value="0" />
+            <enum name="rect" value="1" />
+        </attr>
+        <!--灵敏度，默认值是4-->
+        <attr name="sensibility">
+            <enum name="one" value="1" />
+            <enum name="two" value="2" />
+            <enum name="three" value="3" />
+            <enum name="four" value="4" />
+            <enum name="five" value="5" />
+        </attr>
+        <!--精细度，绘制曲线的时候，每几个像素绘制一次，默认是1，一般，这个值越小，曲线越顺滑，
+            但在一些旧手机上，会出现帧率过低的情况，可以把这个值调大一点，在图片的顺滑度与帧率之间做一个取舍-->
+        <attr name="fineness">
+            <enum name="one" value="1" />
+            <enum name="two" value="2" />
+            <enum name="three" value="3" />
+        </attr>
+    </declare-styleable>
+
+    <!--标签布局样式-->
+    <declare-styleable name="TagFlowLayout">
+        <attr name="auto_select_effect" format="boolean"></attr>
+        <attr name="max_select" format="integer"></attr>
+        <attr name="gravity">
+            <enum name="left" value="-1" />
+            <enum name="center" value="0" />
+            <enum name="right" value="1" />
+        </attr>
+    </declare-styleable>
+    <!--流式标签样式-->
+    <declare-styleable name="LabelsView">
+        <attr name="max_labels" format="integer" />
+        <attr name="show_cross" format="boolean" />
+        <attr name="icon_cross" format="reference" />
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="label_background_res" format="reference"/>
+        <attr name="label_clickable" format="boolean" />
+        <attr name="label_padding" format="dimension"/>
+    </declare-styleable>
+    <!--多媒体Tag的key-->
+    <item type="id" name="richeditor_audio"/>
+    <item type="id" name="richeditor_video"/>
+</resources>

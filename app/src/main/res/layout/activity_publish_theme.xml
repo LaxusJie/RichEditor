@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_createtheme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite">
+
+    <!--顶部标题栏-->
+    <RelativeLayout
+        android:id="@+id/layout_top"
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:background="@color/green"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_top">
+
+
+        <ScrollView
+            android:id="@+id/sv_rich"
+            android:layout_width="match_parent"
+            android:layout_height="825px"
+            android:background="@color/colorWhite1"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:id="@+id/ll_richeditor"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="78px"
+                android:orientation="vertical">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="20px"
+                    android:layout_alignParentTop="true"
+                    android:background="@color/colorGray6" />
+
+                <!--讨论标题-->
+                <RelativeLayout
+                    android:id="@+id/rl_discuss_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="113px"
+                    android:layout_below="@+id/rl_subject"
+                    android:background="@color/colorWhite1">
+
+                    <EditText
+                        android:id="@+id/et_theme_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="26px"
+                        android:layout_marginRight="100px"
+                        android:background="@null"
+                        android:maxLength="40"
+                        android:textColor="@color/colorBlack1"
+                        android:textSize="38px" />
+
+                    <TextView
+                        android:id="@+id/tv_name_length"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="26px" />
+
+                    <View
+                        android:id="@+id/v_line"
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginLeft="26px"
+                        android:background="@color/colorGray6" />
+                </RelativeLayout>
+
+                <!--编辑器容器-->
+                <com.app.richeditor.editor.RichTextEditor
+                    android:id="@+id/richtexteditor"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/colorWhite1"
+                    android:visibility="visible">
+
+                </com.app.richeditor.editor.RichTextEditor>
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+
+    <com.app.functionbar.inputview.RichInputBar
+        android:id="@+id/richbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>
