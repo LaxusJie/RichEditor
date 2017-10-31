@@ -17,6 +17,10 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
+        mavenCentral()
+        maven{
+            url "http://nexus.tfedu.net/repository/maven-releases/"
+        }
     }
 }
 

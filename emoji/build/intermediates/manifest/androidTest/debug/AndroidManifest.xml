@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tb.emoji.test" >
+    package="com.app.emoji.test" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -10,8 +10,8 @@
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.tb.emoji.test"
-        android:targetPackage="com.tb.emoji.test" />
+        android:label="Tests for com.app.emoji.test"
+        android:targetPackage="com.app.emoji.test" />
 
     <meta-data
         android:name="android.support.VERSION"

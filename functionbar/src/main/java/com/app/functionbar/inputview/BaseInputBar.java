@@ -13,7 +13,7 @@ import com.app.base.FrameBaseActivity;
 import com.app.base.utils.PermissionManager;
 import com.app.functionbar.R2;
 import com.luck.picture.lib.model.PictureConfig;
-import com.tb.emoji.FaceFragment;
+import com.app.emoji.FaceFragment;
 import com.yalantis.ucrop.entity.LocalMedia;
 import com.zhy.autolayout.AutoFrameLayout;
 import com.zhy.autolayout.AutoLinearLayout;

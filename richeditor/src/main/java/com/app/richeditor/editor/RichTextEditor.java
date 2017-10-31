@@ -33,11 +33,11 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.app.base.utils.EditorDataEntity;
+import com.app.emoji.Emoji;
+import com.app.emoji.EmojiUtil;
+import com.app.emoji.FaceFragment;
 import com.app.richeditor.R;
 import com.app.richeditor.utils.ImageUtil;
-import com.tb.emoji.Emoji;
-import com.tb.emoji.EmojiUtil;
-import com.tb.emoji.FaceFragment;
 import com.zhy.autolayout.utils.AutoUtils;
 
 import java.util.ArrayList;

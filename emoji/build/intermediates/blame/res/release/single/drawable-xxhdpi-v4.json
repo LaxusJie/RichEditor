@@ -12,12 +12,12 @@
         "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\src\\main\\res\\drawable-xxhdpi\\emoji90.png"
     },
     {
-        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\emoji57.png",
-        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\src\\main\\res\\drawable-xxhdpi\\emoji57.png"
-    },
-    {
         "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\emoji7.png",
         "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\src\\main\\res\\drawable-xxhdpi\\emoji7.png"
+    },
+    {
+        "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\emoji57.png",
+        "source": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\src\\main\\res\\drawable-xxhdpi\\emoji57.png"
     },
     {
         "merged": "D:\\develop\\WorkSpace\\gitSpace\\Editor\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\emoji88.png",

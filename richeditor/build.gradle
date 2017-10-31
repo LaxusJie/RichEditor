@@ -27,6 +27,6 @@ dependencies {
     compile project(':base')
     compile project(':picture_library')
     compile project(':ucrop')
-    compile project(':emoji')
+    compile 'com.app:emoji:1.0.1'
     compile project(':SmallVideoLib')
 }

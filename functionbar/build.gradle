@@ -27,7 +27,8 @@ dependencies {
     compile project(':base')
     compile project(':picture_library')
     compile project(':ucrop')
-    compile project(':emoji')
+//    compile project(':emoji')
+    compile 'com.app:emoji:1.0.1'
     compile project(':SmallVideoLib')
     //小刀注解插件
     apt 'com.jakewharton:butterknife-compiler:8.4.0'

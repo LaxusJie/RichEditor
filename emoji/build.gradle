@@ -14,4 +14,4 @@ dependencies {
     compile 'com.nineoldandroids:library:2.4.0'
     compile 'com.google.code.gson:gson:2.2.4'
 }
-
+apply from: 'http://jasonzhang1986.github.io/nexus_upload.gradle'
