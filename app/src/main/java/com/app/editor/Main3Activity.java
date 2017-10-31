@@ -7,10 +7,10 @@ import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 
 import com.app.editor.base.BaseActivity;
+import com.app.emoji.Emoji;
+import com.app.emoji.FaceFragment;
 import com.app.functionbar.inputview.RichInputBar;
 import com.app.richeditor.editor.RichTextEditor;
-import com.tb.emoji.Emoji;
-import com.tb.emoji.FaceFragment;
 
 import butterknife.BindView;
 

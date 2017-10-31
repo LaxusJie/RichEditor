@@ -22,7 +22,8 @@
         <ScrollView
             android:id="@+id/sv_rich"
             android:layout_width="match_parent"
-            android:layout_height="825px"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="100px"
             android:background="@color/colorWhite1"
             android:fillViewport="true"
             android:scrollbars="none">
