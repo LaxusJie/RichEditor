@@ -94,62 +94,62 @@ public class AudioFunc {
     @OnClick({R2.id.btn_record_ready_start, R2.id.btn_record_go_pause, R2.id.btn_record_go_continue, R2.id.btn_record_go_stop, R2.id.btn_record_over_play,
             R2.id.btn_record_over_pause, R2.id.tv_record_over_again, R2.id.tv_record_over_save})
     public void onClick(View v) {
-        switch (v.getId()) {
-            case R2.id.btn_record_ready_start://录音准备-开始
-                if (audioCountListener != null) {
-                    if (audioCountListener.getAudioCount() >= 2) {
-                        ToastUtil.show(activity, Constant.AUDIO_TIP);
-                        return;
-                    }
+        int vId = v.getId();
+        if (vId == R.id.btn_record_ready_start) {
+            if (audioCountListener != null) {
+                if (audioCountListener.getAudioCount() >= 2) {
+                    ToastUtil.show(activity, Constant.AUDIO_TIP);
+                    return;
                 }
-                isOperation = true;
-                llRecordReady.setVisibility(View.GONE);
-                llRecordGo.setVisibility(View.VISIBLE);
-                voiceManager.startVoiceRecord(Environment.getExternalStorageDirectory().getPath() + "/TaoLun/audio");
-                break;
-            case R2.id.btn_record_go_pause://录音进行中-暂停
-                if (voiceManager != null) {
-                    voiceManager.pauseOrStartVoiceRecord();
-                }
-                btnRecordGoPause.setVisibility(View.GONE);
-                btnRecordGoContinue.setVisibility(View.VISIBLE);
-                break;
-            case R2.id.btn_record_go_continue://录音进行中-继续
-                if (voiceManager != null) {
-                    voiceManager.pauseOrStartVoiceRecord();
-                }
-                btnRecordGoContinue.setVisibility(View.GONE);
-                btnRecordGoPause.setVisibility(View.VISIBLE);
-                break;
-            case R2.id.btn_record_go_stop://录音进行中-停止
-                llRecordGo.setVisibility(View.GONE);
-                llRecordOver.setVisibility(View.VISIBLE);
-                if (voiceManager != null) {
-                    voiceManager.stopVoiceRecord();
-                }
-                break;
-            case R2.id.btn_record_over_play://录音结束后-播放
-                if (voiceManager.isStoping()) {
-                    voiceManager.continueOrPausePlay();
-                } else {
-                    voiceManager.startPlay(recordPath);
-                }
-                btnRecordOverPause.setVisibility(View.VISIBLE);
-                btnRecordOverPlay.setVisibility(View.GONE);
-                break;
-            case R2.id.btn_record_over_pause://录音结束后-暂停
-                if (voiceManager.isPlaying()) {
-                    voiceManager.continueOrPausePlay();
-                }
-                btnRecordOverPause.setVisibility(View.GONE);
-                btnRecordOverPlay.setVisibility(View.VISIBLE);
-                break;
-            case R2.id.tv_record_over_again://录音结束后-重录
-                recordAgain();
-                break;
-            case R2.id.tv_record_over_save://录音结束后保存
-                recordSave();
-                break;
+            }
+            isOperation = true;
+            llRecordReady.setVisibility(View.GONE);
+            llRecordGo.setVisibility(View.VISIBLE);
+            voiceManager.startVoiceRecord(Environment.getExternalStorageDirectory().getPath() + "/TaoLun/audio");
+
+        } else if (vId == R.id.btn_record_go_pause) {
+            if (voiceManager != null) {
+                voiceManager.pauseOrStartVoiceRecord();
+            }
+            btnRecordGoPause.setVisibility(View.GONE);
+            btnRecordGoContinue.setVisibility(View.VISIBLE);
+
+        } else if (vId == R.id.btn_record_go_continue) {
+            if (voiceManager != null) {
+                voiceManager.pauseOrStartVoiceRecord();
+            }
+            btnRecordGoContinue.setVisibility(View.GONE);
+            btnRecordGoPause.setVisibility(View.VISIBLE);
+
+        } else if (vId == R.id.btn_record_go_stop) {
+            llRecordGo.setVisibility(View.GONE);
+            llRecordOver.setVisibility(View.VISIBLE);
+            if (voiceManager != null) {
+                voiceManager.stopVoiceRecord();
+            }
+
+        } else if (vId == R.id.btn_record_over_play) {
+            if (voiceManager.isStoping()) {
+                voiceManager.continueOrPausePlay();
+            } else {
+                voiceManager.startPlay(recordPath);
+            }
+            btnRecordOverPause.setVisibility(View.VISIBLE);
+            btnRecordOverPlay.setVisibility(View.GONE);
+
+        } else if (vId == R.id.btn_record_over_pause) {
+            if (voiceManager.isPlaying()) {
+                voiceManager.continueOrPausePlay();
+            }
+            btnRecordOverPause.setVisibility(View.GONE);
+            btnRecordOverPlay.setVisibility(View.VISIBLE);
+
+        } else if (vId == R.id.tv_record_over_again) {
+            recordAgain();
+
+        } else if (vId == R.id.tv_record_over_save) {
+            recordSave();
+
         }
     }
 
